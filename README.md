@@ -22,7 +22,7 @@ I
 
 **Bold** and _Italic_ and `Code` text
 
-[Resume](https://flowcv.io/resume/feedback/FjXnOIpyLgV3) and ![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fadebolaajayi&psig=AOvVaw040jGQYncc-gGmJ2okGv1J&ust=1625940134998000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKju9pzJ1vECFQAAAAAdAAAAABAD)
+[Resume](https://flowcv.io/resume/feedback/FjXnOIpyLgV3) and [Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fadebolaajayi&psig=AOvVaw040jGQYncc-gGmJ2okGv1J&ust=1625940134998000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKju9pzJ1vECFQAAAAAdAAAAABAD)
 ```
 
 Having trouble with some pages? Check our our [documentation](https://github.com/contact)
