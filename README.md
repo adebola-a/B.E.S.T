@@ -1,6 +1,6 @@
 ## Welcome to Adebola Ajayi's Page
 
-You can learn all about him [editor of this GitHub] (https://www.linkedin.com/in/adebolaajayi)
+You can learn all about him [editor of this GitHub](https://www.linkedin.com/in/adebolaajayi)
 
 ### Markdown
 Markdown is a lightweight and easy to use syntax for your writing. 
