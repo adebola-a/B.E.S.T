@@ -1,28 +1,19 @@
 ## Welcome to Adebola Ajayi's Page
+My name is Adebola Ajayi and I am a rising sophmore studying computer science at Howard University. I was born and raised in Lagos Nigeria but I stay in Rockville Maryland currently.
 
-You can learn all about him [editor of this GitHub](https://www.linkedin.com/in/adebolaajayi)
+To check out my linkedin profile you can [clik here!](https://www.linkedin.com/in/adebolaajayi)
 
-### Markdown
-Markdown is a lightweight and easy to use syntax for your writing. 
+### About Me
 ```markdown
 
-# Header 1
-Me
-## Header 2
-Myself
-### Header 3
-I
-### Support or Contact
+In my freshman year, I took classes to learn python and c++ programming languages. I also learnt languages used in web development (HTML, CSS JS) on Udemy.
 
-- Bulleted
-- List
+I have done a few projets such as creating an interactive fiction game and a dice simulation game both using python programming language.
 
-1. Numbered
-2. List
+I am currently a member of my school's Google Developers Student Club serving as the Technology Committee Website Laison.
 
-**Bold** and _Italic_ and `Code` text
+For more in formation you can check out [my resume](https://flowcv.io/resume/feedback/FjXnOIpyLgV3)
 
-[Resume](https://flowcv.io/resume/feedback/FjXnOIpyLgV3) and [Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fadebolaajayi&psig=AOvVaw040jGQYncc-gGmJ2okGv1J&ust=1625940134998000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKju9pzJ1vECFQAAAAAdAAAAABAD)
-```
+I am a very sporty person and I enjoy playing sports such as soccer and sport based video games such as fifa and nba 2k. I also enjoy reading and programming. 
 
-Having trouble with some pages? Check our our [documentation](https://github.com/contact)
+My ambition is to alleviate hunger in my country through computerized farming which I hope to achieve using artificial intelligence and machine learning.
