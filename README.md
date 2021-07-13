@@ -1,7 +1,7 @@
 ## Welcome to Adebola Ajayi's Page
 My name is Adebola Ajayi and I am a rising sophmore studying computer science at Howard University. I was born and raised in Lagos Nigeria but I stay in Rockville Maryland currently.
 
-To check out my linkedin profile you can [clik here!](https://www.linkedin.com/in/adebolaajayi)
+To check out my linkedin profile you can [click here!](https://www.linkedin.com/in/adebolaajayi)
 
 ### About Me
 ```markdown
